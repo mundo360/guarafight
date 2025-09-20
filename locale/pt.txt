@@ -3,79 +3,87 @@
 ## Action
 
 ### URL
-LinkBehaviour_18AACB8F_2B45_79FF_41C1_38E52C62FD02.source = http://df360.com.br
-LinkBehaviour_B3B9ECA6_F608_D866_41EB_75D26B1EA2D4.source = http://df360.com.br
+LinkBehaviour_4CA35A51_6703_D56C_41C9_463995D3672C.source = https://fightguara.com.br
 LinkBehaviour_5BFD7B10_4DB9_4605_41BA_654B1479CCB0.source = https://goo.gl/maps/ybrQYpnsnRSmaixF9
 WebFrame_55170236_4F48_03A9_41C6_58E036485841.url = https://maps.google.com/maps?output=embed&center=-15.8303296,-47.9770164&z=17&q=Guar%C3%A1+Fight
-WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://maps.google.com/maps?output=embed&center=-15.8303296,-47.9770164&z=17&q=Guar%C3%A1+Fight
-LinkBehaviour_59FDE832_4E69_C204_41D3_02B7E0E62ABD.source = https://wa.link/ostccd
-LinkBehaviour_5555D337_4F48_0197_41C5_8739FA43A1C8.source = https://wa.link/ostccd
-LinkBehaviour_5B97AD2E_4EC8_01B9_41CC_C5E79FFFE27F.source = https://wa.link/ostccd
 LinkBehaviour_5696BBDB_4E6B_C604_41D1_9E1AEA5BA8D8.source = https://wa.link/ostccd
-LinkBehaviour_5B97DD2E_4EC8_01B9_41CC_ED6DBA6DFC1D.source = https://www.instagram.com/fight_guara/
-LinkBehaviour_2EF7EA98_1DB0_F212_41B6_A86D8171D064.source = https://www.instagram.com/fight_guara/
+LinkBehaviour_5555D337_4F48_0197_41C5_8739FA43A1C8.source = https://wa.link/ostccd
+LinkBehaviour_71C9BA96_6701_D514_41D9_73C05AED3E67.source = https://wa.link/ostccd
+LinkBehaviour_4F40C003_670E_D4EC_41BA_5FCFC56A2322.source = https://wa.me/5561982838887
+LinkBehaviour_72D35717_6701_7B14_41CE_447AB369820D.source = https://wa.me/5561982838887
+WebFrame_4054523C_6702_B514_41D0_01E31711D7C2.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.499325497659!2d-47.97712186022617!3d-15.8303325060679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a311eab944fad%3A0x4188c535f6e85c01!2sGuar%C3%A1%20Fight!5e0!3m2!1spt-BR!2sbr!4v1758374731077!5m2!1spt-BR!2sbr
 LinkBehaviour_5AA52DB7_4D99_C20B_41C5_F3B862C6FE2F.source = https://www.instagram.com/fight_guara/
-LinkBehaviour_05B2ACD4_1ED1_F612_4181_585ECAB0AE31.source = https://www.instagram.com/fight_guara/
-LinkBehaviour_56DEF35C_4E76_C63D_41A7_03123D3EAD42.source = https://www.instagram.com/fight_guara/
-LinkBehaviour_5BF97CD9_4F38_009A_41C6_5A32F612E4AF.source = https://www.instagram.com/fight_guara/
-
-## Hotspot
-
-### Text
-HotspotPanoramaOverlayTextImage_6C5D3AF3_4E9E_C604_41C5_E17EBF5B4376.text = Recepção
-HotspotPanoramaOverlayTextImage_6DEBA5C2_4E9F_4204_41D2_09568615DB1C.text = Recepção
-HotspotPanoramaOverlayTextImage_6C7E26DB_4E9E_CE04_41C1_8EA5E100CECA.text = Treinamento
-HotspotPanoramaOverlayTextImage_6CC6B281_4E99_4604_41D1_D47DCC61AAE7.text = Treinamento
+LinkBehaviour_2EF7EA98_1DB0_F212_41B6_A86D8171D064.source = https://www.instagram.com/fight_guara/
+LinkBehaviour_403036C4_6702_DD6B_41D0_2937028F56FC.source = https://www.instagram.com/fight_guara/
+LinkBehaviour_71C93A96_6701_D514_41D3_F3723DCC6D51.source = https://www.instagram.com/fight_guara/
+LinkBehaviour_71C8CA97_6701_D514_41CE_81CDB8FD964A.source = https://www.instagram.com/fight_guara/
 
 ## Media
 
 ### Audio
-audiores_5781AC6C_58A6_15D7_41CC_4B4EF4436ECE.mp3Url = media/audio_575DED3D_58A6_17B1_41CC_02606C75E8CA_pt.mp3
+audiores_47E26159_6701_571C_41CB_D2AA75FABBC9.mp3Url = media/audio_475C0F2D_6703_4B34_41AC_17374BBFD8BB_pt.mp3
 
-### Image
-imlevel_F049DA00_FEF0_5C22_41D2_0D40831E98CA.url = media/panorama_5C0B31E3_4DFB_420B_41BB_F90436009896_HS_34i3cezn_pt.png
-imlevel_F06E3974_FEF0_5CEC_41B0_1F064B447769.url = media/panorama_5C0B31E3_4DFB_420B_41BB_F90436009896_HS_bnq4eyp6_pt.png
-imlevel_F038DA93_FEF0_5C26_41E1_D878F005BB07.url = media/panorama_5C9C7A0D_4DFB_461C_41BE_F2B3AB2AC143_HS_3h6fyhxi_pt.png
-imlevel_F0396A65_FEF0_5CE2_41E4_ABC93DFF1AE9.url = media/panorama_5C9C7A0D_4DFB_461C_41BE_F2B3AB2AC143_HS_7sj9qy8f_pt.png
+### Audio Subtitles
 
 ### Title
-panorama_5C81093F_4DFA_C27B_41AC_C5321781D6F0.label = Acesso aos Treinos
-panorama_5C9C7A0D_4DFB_461C_41BE_F2B3AB2AC143.label = Entrada
-panorama_5C8204F3_4DF9_420B_419C_C65F78CA532C.label = Escada de acesso
-panorama_5C0B31E3_4DFB_420B_41BB_F90436009896.label = Guara Fight
-panorama_5C81F6BE_4DFA_CE7D_41C7_AF618E1A3AD0.label = Secretaria
-panorama_5C99D89F_4DFA_C23B_41CD_D6D36C86C694.label = Treinamento
-panorama_5C82460A_4DF9_4E05_41CD_54620AA2BBF0.label = Treinamento 2
-panorama_5C819BA3_4DFA_C60B_41A5_BC4FB2A7A8C3.label = Treinamento 3
+panorama_771DBA8F_670E_D5F4_41D8_F755DCB12230.label = guara-box1
+panorama_748630C4_670E_D56B_41D1_4ECB3D8406CE.label = guara-box2
+panorama_765C01F9_66D4_0677_41D1_BC1EB2F9E234.label = guara-centro-corredor
+panorama_7552DCCB_66BE_9A0F_41B3_CFE5EE04C094.label = guara-centro-garagem
+panorama_6B82EE6E_6701_4D35_41D7_C2F8B4C0EB42.label = guara-chegada-lluta
+panorama_78F27D4F_66DB_FA06_41AE_90F5DAC5ACAA.label = guara-corredor-pesos
+panorama_74074C23_66DC_3D9B_41C2_B38F8B16DD3D.label = guara-escada
+panorama_77DCCCB4_671F_CD14_41C9_3C526D34B341.label = guara-judogui1
+panorama_7631A2A2_671F_B52C_41D6_98CCCD6029E7.label = guara-judogui3
+panorama_6A0DD24F_66CC_05AA_41BB_1CE98579E6E6.label = guara-pesos2
+panorama_7682A6BE_66CC_0AED_41BF_A3F5E969CA5B.label = guara-porta-corredor
+panorama_7CA9F0CC_66AA_AA09_41D4_EDD7930616FF.label = guara-porta-recepcao
+panorama_758D4D4E_66B9_7A06_41D1_C70BE74383EA.label = guara-portaojpg
+panorama_6A6E6B6E_6701_4B34_41D6_F6B54F9F5E4B.label = guara-pos-escada
+panorama_7EA79CF6_66AB_BA06_41D4_BF3828FD3C98.label = guara-recepcao
+panorama_7B5A8E48_66DB_960A_41CB_CD09865915B8.label = guara-recepcao2
+panorama_73C8EBA8_66A6_9E09_41CF_8DE0C3D88579.label = guara-rua
+video_48009D87_6701_4FF4_41A6_2127EA560F53.label = guarafightvideo
+panorama_75898735_66B9_961A_41B4_5C7E0B415378.label = judogui-centro
+
+### Video
+videolevel_69E9031A_67AB_4308_41D6_6D8E5CB1A111.posterURL = media/video_48009D87_6701_4FF4_41A6_2127EA560F53_poster_pt.jpg
+videolevel_69E9031A_67AB_4308_41D6_6D8E5CB1A111.url = media/video_48009D87_6701_4FF4_41A6_2127EA560F53_pt.mp4
+
+### Video Subtitles
 
 ## Skin
 
 ### Button
+Button_403386C4_6702_DD6B_41D7_D1D010D7A2F7.label = (X) FECHAR JANELA
+Button_4F409003_670E_D4EC_41C3_CF61A9434591.label = (X) FECHAR JANELA
+Button_4033A6C4_6702_DD6B_41B8_6B23BB43543E.label = ACESSAR PERFIL INSTAGRAM
+Button_71C9AA96_6701_D514_41BA_F9A827B32960.label = Acessar Instagram
 Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = CONTATO
-Button_5B962D28_4EC8_01B9_418C_7E5630D92520.label = CONTATO
-Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = CONTATO
+Button_4F40C003_670E_D4EC_41A0_1272ABA005F0.label = CONVERSAR VIA WHATSAPP
+Button_72D48717_6701_7B14_41D1_46DA996BF823.label = Falar via Whatsapp
 Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = INÍCIO
 Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = LISTA DE FOTOS
-Button_5B963D28_4EC8_01B9_41C9_6B36D3DDAD09.label = REALTOR
 Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = REALTOR
-Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
+Button_4CA2DA50_6703_D56C_41D6_94322F22A45D.label = SITE PRINCIPAL
 
 ### Image
-Image_06CF1F2F_1ED1_D20E_41B4_49767DD5C108.url = skin/Image_06CF1F2F_1ED1_D20E_41B4_49767DD5C108_pt.png
-Image_192181B7_2B45_692F_41C2_6713796F074D_mobile.url = skin/Image_192181B7_2B45_692F_41C2_6713796F074D_mobile_pt.png
-Image_192181B7_2B45_692F_41C2_6713796F074D.url = skin/Image_192181B7_2B45_692F_41C2_6713796F074D_pt.png
-Image_196FABCC_2B47_1962_4197_EAFB0CC5F468_mobile.url = skin/Image_196FABCC_2B47_1962_4197_EAFB0CC5F468_mobile_pt.png
 Image_196FABCC_2B47_1962_4197_EAFB0CC5F468.url = skin/Image_196FABCC_2B47_1962_4197_EAFB0CC5F468_pt.png
-Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_pt.png
-Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_pt.png
 Image_2F4C00E4_1DB0_EE32_41B5_8BC2241AF8FA.url = skin/Image_2F4C00E4_1DB0_EE32_41B5_8BC2241AF8FA_pt.png
-Image_41EF0027_4ED8_1FB7_41B4_34F87236750D_mobile.url = skin/Image_41EF0027_4ED8_1FB7_41B4_34F87236750D_mobile_pt.png
+Image_403306C3_6702_DD6D_41B1_6AD805B5CF46.url = skin/Image_403306C3_6702_DD6D_41B1_6AD805B5CF46_pt.png
+Image_43AD3587_6703_FFF4_41D3_B57335E88537.url = skin/Image_43AD3587_6703_FFF4_41D3_B57335E88537_pt.png
+Image_43AD9587_6703_FFF4_41D4_28CF2CFFB63D.url = skin/Image_43AD9587_6703_FFF4_41D4_28CF2CFFB63D_pt.png
+Image_43ADB585_6703_FFF4_41D7_860D7FC80964.url = skin/Image_43ADB585_6703_FFF4_41D7_860D7FC80964_pt.png
+Image_43ADC587_6703_FFF4_41D8_4BB960866AE7.url = skin/Image_43ADC587_6703_FFF4_41D8_4BB960866AE7_pt.png
+Image_43ADD587_6703_FFF4_41C3_E2B44BE56D4A.url = skin/Image_43ADD587_6703_FFF4_41C3_E2B44BE56D4A_pt.png
+Image_43ADE587_6703_FFF4_41AD_D108EE3E1676.url = skin/Image_43ADE587_6703_FFF4_41AD_D108EE3E1676_pt.png
+Image_43ADF587_6703_FFF4_41BC_BBB3C209CEF8.url = skin/Image_43ADF587_6703_FFF4_41BC_BBB3C209CEF8_pt.png
+Image_43ADF587_6703_FFF4_41D0_A349429297BC.url = skin/Image_43ADF587_6703_FFF4_41D0_A349429297BC_pt.png
+Image_4F409003_670E_D4EC_41B7_ADFB2792D947.url = skin/Image_4F409003_670E_D4EC_41B7_ADFB2792D947_pt.png
 Image_56E4F2DD_4E6B_463F_41C8_0EFEBCD4B15D.url = skin/Image_56E4F2DD_4E6B_463F_41C8_0EFEBCD4B15D_pt.png
 Image_580B429F_4DBB_463B_41C3_B9233E9E68F0.url = skin/Image_580B429F_4DBB_463B_41C3_B9233E9E68F0_pt.png
 Image_59BC9E59_4F38_039A_41C7_BC308A2C184B.url = skin/Image_59BC9E59_4F38_039A_41C7_BC308A2C184B_pt.jpeg
-Image_5A239DA1_4D96_C204_41BF_3F67154A3773_mobile.url = skin/Image_5A239DA1_4D96_C204_41BF_3F67154A3773_mobile_pt.png
 Image_5A57BFCB_4F38_00FF_41C1_8EA88F7E3378.url = skin/Image_5A57BFCB_4F38_00FF_41C1_8EA88F7E3378_pt.jpeg
-Image_5A690695_4DB7_4E0F_41C7_001FAE86D079.url = skin/Image_5A690695_4DB7_4E0F_41C7_001FAE86D079_pt.png
 Image_5AA25ECD_4D97_5E1F_41D0_91787CE1A5C8.url = skin/Image_5AA25ECD_4D97_5E1F_41D0_91787CE1A5C8_pt.png
 Image_5B964D28_4EC8_01B9_41BC_14E61586F5EC.url = skin/Image_5B964D28_4EC8_01B9_41BC_14E61586F5EC_pt.png
 Image_5B965D28_4EC8_01BE_41C5_E6F38590A1FA.url = skin/Image_5B965D28_4EC8_01BE_41C5_E6F38590A1FA_pt.png
@@ -85,34 +93,30 @@ Image_5B978D2E_4EC8_01B9_41CF_D482638C88E0.url = skin/Image_5B978D2E_4EC8_01B9_4
 Image_5B979D2E_4EC8_01B9_41B2_ACD1C28C535F.url = skin/Image_5B979D2E_4EC8_01B9_41B2_ACD1C28C535F_pt.png
 Image_5B97BD2E_4EC8_01B9_419F_696FD32197EF.url = skin/Image_5B97BD2E_4EC8_01B9_419F_696FD32197EF_pt.png
 Image_5B97ED2E_4EC8_01B9_41B8_36B63F24C110.url = skin/Image_5B97ED2E_4EC8_01B9_41B8_36B63F24C110_pt.png
-Image_5BF80CD9_4F38_009A_41C2_4654EE8EA211.url = skin/Image_5BF80CD9_4F38_009A_41C2_4654EE8EA211_pt.png
-Image_5C3AE15F_4EC8_0197_41BA_17031A8A0268_mobile.url = skin/Image_5C3AE15F_4EC8_0197_41BA_17031A8A0268_mobile_pt.png
 Image_5CAA7603_4EC8_036E_41A4_D3DEA9C1F453.url = skin/Image_5CAA7603_4EC8_036E_41A4_D3DEA9C1F453_pt.jpeg
-Image_5E17B6E0_4EC8_00A9_41CA_58B78DDF2190_mobile.url = skin/Image_5E17B6E0_4EC8_00A9_41CA_58B78DDF2190_mobile_pt.png
-Image_5E452090_4EC8_1F6A_41A6_196D5BA20237_mobile.url = skin/Image_5E452090_4EC8_1F6A_41A6_196D5BA20237_mobile_pt.png
 Image_5F07A0B4_4EC8_00AB_41B4_AC4077447F5F.url = skin/Image_5F07A0B4_4EC8_00AB_41B4_AC4077447F5F_pt.jpeg
-Image_CF77DE31_F5F8_F87B_41DD_F547FC0514CE.url = skin/Image_CF77DE31_F5F8_F87B_41DD_F547FC0514CE_pt.png
+Image_71CBCA93_6701_D5EC_41A5_4FC359D6F418.url = skin/Image_71CBCA93_6701_D5EC_41A5_4FC359D6F418_pt.png
 
 ### Label
 Label_5B13A988_4D9F_4205_41A7_80A5E4D362D0.text = (61) 98283-8887
-Label_5BF8ECD9_4F38_009A_41BC_E97496574B42.text = (61) 98283-8887
-Label_5BF8DCD9_4F38_009A_41C6_C8EA4941B8F8.text = @fight-guara
+Label_71CB4A95_6701_D514_41D3_43BEB6A6832F.text = (61) 98283-8887
 Label_55C078B3_4D99_C204_4194_DB07BCC845D0.text = @fight-guara
-Label_5CF5539B_4EC8_009E_41CC_B28488BC5308.text = Grade Horária
+Label_71C90A96_6701_D514_41CB_79BCFDE30383.text = @fight-guara
 Label_5A57AFCB_4F38_00FF_416B_92C5518E415D.text = Grade Horária
-Label_5BF8FCD9_4F38_009A_41B3_678B85ECC196.text = Guará Fight
+Label_5CF5539B_4EC8_009E_41CC_B28488BC5308.text = Grade Horária
 Label_5A55321E_4D99_463C_41C1_BAE8C7591590.text = Guará Fight
+Label_71CB0A95_6701_D514_41CD_14CAE8DD2805.text = Guará Fight
 
 ### Multiline Text
-HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:3.93vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:158%;text-align:center;font-size:3.3285094066570187vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.33vmin;font-family:'Montserrat';">Bruno</SPAN></SPAN></DIV><DIV STYLE="line-height:158%;text-align:center;font-size:3.3285094066570187vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.33vmin;font-family:'Montserrat';">Vasconcelos</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:158%;text-align:center;font-size:2.509999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';">Corretor de Imóveis</SPAN></SPAN></DIV><DIV STYLE="line-height:158%;text-align:center;font-size:2.509999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';">@bvasconcelos_imoveis</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.4732272069464543vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff3300;font-size:3.47vmin;font-family:'Bebas Neue Bold';">61- 98191-7356</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:3.93vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:158%;text-align:center;font-size:3.328509406657018vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.33vmin;font-family:'Montserrat';">Bruno</SPAN></SPAN></DIV><DIV STYLE="line-height:158%;text-align:center;font-size:3.328509406657018vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.33vmin;font-family:'Montserrat';">Vasconcelos</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:158%;text-align:center;font-size:2.509999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';">Corretor de Imóveis</SPAN></SPAN></DIV><DIV STYLE="line-height:158%;text-align:center;font-size:2.509999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';">@bvasconcelos_imoveis</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.473227206946454vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff3300;font-size:3.47vmin;font-family:'Bebas Neue Bold';">61- 98191-7356</SPAN></SPAN></DIV></div>
 HTMLText_C5B2E5A3_F208_481F_41DE_A54AE5CB09B6.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:158%;text-align:center;font-size:27px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:27px;"><B>Visita Guará Fight 360º</B></SPAN></SPAN></DIV><DIV STYLE="line-height:158%;text-align:center;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B>Seja bem Vindo(a)</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:158%;text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:Tahoma, Geneva, sans-serif;">GIRE AS FOTOS A QUALQUER TEMPO</SPAN></SPAN></DIV></div>
 HTMLText_C5B2E5A3_F208_481F_41DE_A54AE5CB09B6_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:189%;text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;"><B>Visita Virtual 360º</B></SPAN></SPAN></DIV><DIV STYLE="line-height:189%;text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;"><B>Seja bem Vindo(a)</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:158%;text-align:center;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10px;font-family:Tahoma, Geneva, sans-serif;">GIRE AS FOTOS  </SPAN></SPAN></DIV></div>
-HTMLText_CF77AE32_F5F8_F879_41E7_AED3D502D4CC.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:177%;text-align:left;font-size:3.480000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.48vh;font-family:'Bebas Neue Bold';">Guará Fight</SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:3.473227206946457vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#003366;font-size:3.47vh;font-family:'Bebas Neue Bold';">+55 (61) 98283-8887</SPAN></SPAN></DIV><DIV STYLE="line-height:150%;text-align:left;font-size:2.8943560057887128vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#003366;font-size:2.89vh;font-family:'Bebas Neue Bold';">@fight_guara</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.47vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:94%;text-align:left;font-size:3.1250000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.13vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="line-height:94%;text-align:left;font-size:2.812500000000001vh;"><SPAN STYLE="vertical-align:super;display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.81vh;font-family:'Bebas Neue Bold';">Lista de fotos:</SPAN></SPAN></DIV></div>
-HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.341534008683071vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.34vh;font-family:'Bebas Neue Bold';">Lista de fotos :</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:3.13vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:94%;text-align:left;font-size:2.8125000000000027vh;"><SPAN STYLE="vertical-align:super;display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.81vh;font-family:'Bebas Neue Bold';">Lista de fotos:</SPAN></SPAN></DIV></div>
+HTMLText_403346C4_6702_DD6B_41CF_B92C2643B77B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.341534008683069vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.34vh;font-family:'Montserrat';"><B>ACESSE NOSSO PERFIL DO INSTAGRAM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.29vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.38vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7422303473491785vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.74vh;">ACESSE NOSSO PERFIL DO INSTAGRAM PARA VER NOSSAS NOTÍCIAS</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.341534008683071vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.34vh;font-family:'Bebas Neue Bold';">Lista de fotos :</SPAN></SPAN></DIV></div>
 HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.760000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.920405209840814vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Bebas Neue Bold';">cONTATO</SPAN></SPAN></DIV></div>
-HTMLText_CF779E32_F5F8_F879_41ED_E8078ACDDFB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.830000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.090000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.09vh;font-family:'Bebas Neue Bold';">contato</SPAN></SPAN></DIV></div>
-HTMLText_55177236_4F48_03A9_41CB_D58CAA72B583.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562500000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Oswald';"><B>Localização Guará Fight</B></SPAN></SPAN></DIV></div>
+HTMLText_55177236_4F48_03A9_41CB_D58CAA72B583.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562500000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Oswald';"><B>Localização </B></SPAN></SPAN></DIV></div>
+HTMLText_4F40D003_670E_D4EC_41D2_27139349ED33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.700000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>FALE CONOSCO</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.604920405209842vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:2.6vh;font-family:'Calibri';">Entre em contato pelo whatsapp e saiba mais sobre os serviços oferecidos.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.6vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.6vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.604920405209842vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:2.6vh;font-family:'Calibri';">Clique no Botão abaixo para abrir o Whatsapp.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.6vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Tour
 
